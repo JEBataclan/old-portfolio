@@ -14,24 +14,24 @@ function Projects() {
           <div className="col">
             <Card
               img={PayrollSystem}
-              title="Lorem"
-              description="Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              title="Payroll System (WIP)"
+              description="Our group's on-going project for our Software Engineering 2."
               link=""
             />
           </div>
           <div className="col">
             <Card
               img={TUPGGOverlay}
-              title="Lorem"
-              description="Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              title="TUP GG:LoL Smart Overlay"
+              description="Smart Overlay Picks and Bans Selection for TUP GG:LoL."
               link=""
             />
           </div>
           <div className="col">
             <Card
               img={Tag}
-              title="Lorem"
-              description="Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              title="T4G Game"
+              description="A 2D platformer 2-player game wherein you have to catch or run from the opposing player."
               link=""
             />
           </div>
