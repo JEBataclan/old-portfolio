@@ -1,0 +1,31 @@
+.logo {
+    width: 50px;
+}
+
+.email {
+    color: white;
+}
+
+.mydark-bg {
+    background-color: rgb(29, 29, 29);
+}
+
+a {
+    color: rgb(158, 158, 158);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(196, 196, 196);
+    transition: all 0.3s ease;
+}
+
+.breadcrumb-item {
+    color: rgb(158, 158, 158);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.breadcrumb-item:hover {
+    color: rgb(196, 196, 196);
+}

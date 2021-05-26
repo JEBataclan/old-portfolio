@@ -1,0 +1,25 @@
+.navbar {
+    transition: all 0.3s ease;
+}
+
+.transparent {
+    background: transparent !important;
+}
+
+.mydark-bg {
+    background: rgb(12, 7, 5);
+}
+
+.nav-link {
+    color: rgba(255,255,255,1) !important;
+    transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+    color: rgb(179, 179, 179) !important;
+    cursor: pointer;
+}
+
+.navbar-nav {
+    align-items: center;
+}
