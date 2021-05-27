@@ -20,6 +20,10 @@ a:hover {
     transition: all 0.3s ease;
 }
 
+.breadcrumb {
+    justify-content: center;
+}
+
 .breadcrumb-item {
     color: rgb(158, 158, 158);
     cursor: pointer;

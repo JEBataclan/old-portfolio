@@ -10,7 +10,7 @@ function Projects() {
     <section className="projects" id="projects-section">
       <div className="container-sm py-5">
       <h1 className="text-center section-title">PROGRAMMING PROJECTS</h1>
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           <div className="col">
             <Card
               img={PayrollSystem}
