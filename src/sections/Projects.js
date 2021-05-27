@@ -16,7 +16,7 @@ function Projects() {
               img={PayrollSystem}
               title="Payroll System (WIP)"
               description="Our group's on-going project for our Software Engineering 2."
-              link=""
+              link="https://github.com/JEBataclan/payroll-system"
             />
           </div>
           <div className="col">
@@ -24,7 +24,7 @@ function Projects() {
               img={TUPGGOverlay}
               title="TUP GG:LoL Smart Overlay"
               description="Smart Overlay Picks and Bans Selection for TUP GG:LoL."
-              link=""
+              link="https://github.com/JEBataclan/lol-pick-ban-ui"
             />
           </div>
           <div className="col">
@@ -32,7 +32,7 @@ function Projects() {
               img={Tag}
               title="T4G Game"
               description="A 2D platformer 2-player game wherein you have to catch or run from the opposing player."
-              link=""
+              link="https://github.com/JEBataclan/t4g"
             />
           </div>
         </div>

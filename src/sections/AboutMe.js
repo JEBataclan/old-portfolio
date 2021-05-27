@@ -12,6 +12,12 @@ function AboutMe() {
             className="aboutme-image"
           />
           <p className="aboutme-text">
+            Jan Erickson Bataclan, or Jeb, is a 3rd year Bachelor of Science in
+            Computer Science student attending in Technological University of
+            the Philippines - Manila. Jeb found his passion is coding in
+            different programming languages wanting to use it to pursue Game
+            Development.
+            {/*
             Based in Manila, I am currently a 3rd year student of Technological
             University of the Philippines - Manila, taking Bachelor of Science in
             Computer Science. I consider myself knowledgeable and at the same time
@@ -21,6 +27,7 @@ function AboutMe() {
             field, I tend to make myself as flexible as possible while looking for
             it. My love for video games aspired me to be a game developer, but
             there is one weakness I must overcome first, designing.
+            */}
           </p>
         </div>
       </div>

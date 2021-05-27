@@ -1,3 +1,11 @@
 .section-title {
     font-weight: 700;
 }
+
+.card a {
+    color: rgb(40, 125, 182);
+}
+
+.card a:hover {
+    color: rgb(28, 71, 99);
+}
